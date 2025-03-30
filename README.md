@@ -1,4 +1,4 @@
-<h1 align="center">winjujae</h1>
+<h1 align="center">ZB053(Kim JuBo)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
