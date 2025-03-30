@@ -15,7 +15,7 @@
 ## 📌 Profile
 - 📍 Korea | 🧠 Interested in human-centered AI
 - 🎓 Background: AI + Manufacturing data projects, NLP pipelines
-- 🌍 Goal: Build systems that understand multilingual contexts
+- 🌍 Goal: Build systems that understand Large & Multi contexts
 
 ---
 
