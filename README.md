@@ -1,4 +1,4 @@
-<h1 align="center">I'm winjujae</h1>
+<h1 align="center">winjujae</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/LangChain-3C3C3C?style=for-the-badge"/>
 </p>
 
+---
 
 ## 📌 Profile
 - 📍 Korea | 🧠 Interested in human-centered AI
