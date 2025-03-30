@@ -21,12 +21,6 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, JavaScript  
-**AI/NLP**
-**Frameworks**: FastAPI, Flask  
-**AI Tools**: HuggingFace, OpenAI GPT, LangChain, PyTorch  
-**Infra**: Docker
-
 | Category | Tools |
 |---------|-------|
 | 💻 Language | Python, JavaScript |
