@@ -25,7 +25,7 @@
 |---------|-------|
 | 💻 Language | Python, JavaScript, MySQL |
 | 🤖 AI/NLP | HuggingFace, GPT-4o API, LongT5,LangChain, PyTorch |
-| 🌐 Frameworks | FastAPI, LangChain, Flask |
+| 🌐 Frameworks | Pytorch, FastAPI, LangChain, Flask |
 | 🛠 Tools | Docker, Git, VS Code |
 
 ---
